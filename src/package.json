@@ -1,0 +1,23 @@
+{
+	"name": "exceljs-esm",
+	"version": "4.4.0",
+	"description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
+	"main": "./exceljs.js",
+	"browser": "./esm/index.js",
+	"module": "./esm/index.js",
+	"esm": "./esm/index.js",
+	"types": "./esm/index.d.ts",
+	"typings": "./esm/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/exceljs/exceljs.git"
+	},
+	"author": {
+		"name": "Guyon Roche & Oleh Mishyn",
+		"email": "mishyn.uk@gmail.com",
+		"url": "https://github.com/omishyn"
+	},
+	"license": "MIT",
+	"bugs": "https://github.com/omishyn/exceljs-esm/issues",
+	"sideEffects": false
+}
